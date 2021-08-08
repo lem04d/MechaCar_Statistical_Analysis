@@ -28,7 +28,9 @@ T-Test Lot 1
 ![image](https://github.com/lem04d/MechaCar_Statistical_Analysis/blob/main/Module15/ttest_lot1.PNG)
 
 T-Test Lot 2
+
 ![image](https://github.com/lem04d/MechaCar_Statistical_Analysis/blob/main/Module15/ttest_lot2.PNG)
 
 T-Test Lot 3
+
 ![image](https://github.com/lem04d/MechaCar_Statistical_Analysis/blob/main/Module15/ttest_lot3.PNG)
