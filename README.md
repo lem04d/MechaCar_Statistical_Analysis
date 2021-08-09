@@ -49,3 +49,15 @@ T-Test Lot 2
 T-Test Lot 3
 
 ![image](https://github.com/lem04d/MechaCar_Statistical_Analysis/blob/main/Module15/ttest_lot3.PNG)
+
+
+## Study Design: MechaCar vs Competition
+
+Safety ratings are extremely important to car buyers and ensuring that the safety ratings of MechaCar are high compared to the competition would give MechaCar a competitive advantage. 
+
+For the hypothesis, the null hypothesis would be that the safety ratings of MechaCar and the comparable competitors would be equal and there would be no difference in the means. 
+The alternate hypothesis would be that there is a difference in the means of the safety ratings. 
+
+The statisitical test used would compare the data from the vehicles crash test data to the best possible outcomes from each test to see which vehicles' means fall closer to that perfect score. MechaCar would want to be both as close to that score as possible as well as being higher in their scores than their competition. 
+
+I would reccommend using crash test data and the ratings provided from MechaCar and the top 5 closest competitors. 
